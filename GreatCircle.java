@@ -13,6 +13,6 @@ public class GreatCircle {
 
         distance = (2 * 6371.0) * Math.asin(Math.sqrt(t1 + t2));
 
-        System.out.println(distance + " kilometres");
+        System.out.println(distance + " kilometers");
     }
 }
